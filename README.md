@@ -15,13 +15,21 @@ Deployable on platforms like Heroku
 
 The project uses the diabetes.csv dataset, which includes features like:
 Pregnancies
+
 Glucose Level
+
 Blood Pressure
+
 Skin Thickness
+
 Insulin Level
+
 BMI (Body Mass Index)
+
 Diabetes Pedigree Function
+
 Age
+
 Outcome (Diabetes Positive/Negative)
 
 **Find the project from the given github link:**
