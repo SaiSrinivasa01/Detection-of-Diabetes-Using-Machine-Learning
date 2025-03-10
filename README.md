@@ -1,1 +1,1 @@
-{" https://SaiSinivasa01.github.io/detection-of-diabetes-using-machine-learning/" }
+{"https://github.com/SaiSrinivasa01/detection-of-diabetes-using-machine-learning" }
