@@ -34,4 +34,4 @@ Outcome (Diabetes Positive/Negative)
 
 **Find the project from the given github link:**
 
-{"https://github.com/SaiSrinivasa01/detection-of-diabetes-using-machine-learning" }
+{ "https://saisrinivasa01.github.io/Detection-of-Diabetes-Using-Machine-Learning/" }
